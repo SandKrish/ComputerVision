@@ -5,6 +5,6 @@ Contains detailed explanation of :
 - Convolutional Neural Network
 - The LeNet-5 Architecture 
 - Display of images of different convolutional layers.
-- 
+
 ## [2. Area_Bounded_by_two_boxes.](https://github.com/SandKrish/ComputerVision/blob/main/Area_Bounded_by_two_boxes.ipynb)
 This program calculates total area of the bounding boxes and finds the intersection of points of two boxes.
