@@ -4,6 +4,7 @@ This notebook is used to identify three class of people:
 * With mask
 * Without mask
 * Mask weared incorrect
+
 Here PyTorch library is used with Deep Residual Learning, Resnet34 network. 
 
 ## [2. MNIST dataset analysis and prediction using LeNet-5 Architecture Convolutional Neural Network.](https://github.com/SandKrish/ComputerVision/blob/main/mnsit-cnn-with-augmentation.ipynb)
