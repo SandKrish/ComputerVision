@@ -1,21 +1,20 @@
 # ComputerVision
-## [1.Face Mask Detection-Using PyTorch](https://github.com/SandKrish/ComputerVision/blob/main/face-mask-detection-using-pytorch.ipynb)
-This notebook is used to identify three class of people:
-* With mask
-* Without mask
-* Mask weared incorrect
+This repository contains small projects and notebooks related to Computer Vision and Deep Learning.
 
-Here PyTorch library is used with Deep Residual Learning, Resnet34 network. 
+## [1.Face Mask Detection-Using PyTorch](https://github.com/SandKrish/ComputerVision/blob/main/face-mask-detection-using-pytorch.ipynb)
+A model that detects three categories of people:
+With mask
+Without mask
+Mask worn incorrectly
+
+The model is built using PyTorch and the ResNet34 architecture.
 
 ## [2. MNIST dataset analysis and prediction using LeNet-5 Architecture Convolutional Neural Network.](https://github.com/SandKrish/ComputerVision/blob/main/mnsit-cnn-with-augmentation.ipynb)
-Contains detailed explanation of :
-- RGB Format
-- Convolutional Neural Network
-- The LeNet-5 Architecture 
-- Display of images of different convolutional layers.
+This notebook demonstrates image classification using the LeNet-5 Convolutional Neural Network.
+It also explains concepts such as RGB image format, convolutional layers, and visualization of CNN layers.
 
 ## [3. Area_Bounded_by_two_boxes.](https://github.com/SandKrish/ComputerVision/blob/main/computer-vision-area-bounded-by-two-boxes.ipynb)
-This program calculates total area of the bounding boxes and finds the intersection of points of two boxes.
+A program that calculates the intersection area between two bounding boxes.
 
 # Author
 Sandhya Krishnan
