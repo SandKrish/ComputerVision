@@ -16,3 +16,6 @@ Contains detailed explanation of :
 
 ## [3. Area_Bounded_by_two_boxes.](https://github.com/SandKrish/ComputerVision/blob/main/computer-vision-area-bounded-by-two-boxes.ipynb)
 This program calculates total area of the bounding boxes and finds the intersection of points of two boxes.
+
+# Author
+Sandhya Krishnan
